@@ -1,0 +1,19 @@
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/include/mylocation_monitor/MyLandmarkDistance.h
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/roseus/ros/mylocation_monitor/manifest.l
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/roseus/ros/mylocation_monitor/msg/MyLandmarkDistance.l
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/common-lisp/ros/mylocation_monitor/msg/mylocation_monitor-msg.asd
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/common-lisp/ros/mylocation_monitor/msg/MyLandmarkDistance.lisp
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/common-lisp/ros/mylocation_monitor/msg/_package.lisp
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/common-lisp/ros/mylocation_monitor/msg/_package_MyLandmarkDistance.lisp
+Linked: (/home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/share/mylocation_monitor/cmake/mylocation_monitorConfig-version.cmake, /home/rcsa-gs/my_ros_cpp_ws/devel/share/mylocation_monitor/cmake/mylocation_monitorConfig-version.cmake)
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/mylocation_monitor/cmake/mylocation_monitor-msg-extras.cmake
+Linked: (/home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/share/mylocation_monitor/cmake/mylocation_monitorConfig.cmake, /home/rcsa-gs/my_ros_cpp_ws/devel/share/mylocation_monitor/cmake/mylocation_monitorConfig.cmake)
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/mylocation_monitor/cmake/mylocation_monitor-msg-paths.cmake
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/gennodejs/ros/mylocation_monitor/_index.js
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/gennodejs/ros/mylocation_monitor/msg/_index.js
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/share/gennodejs/ros/mylocation_monitor/msg/MyLandmarkDistance.js
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/lib/python2.7/dist-packages/mylocation_monitor/__init__.py
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/lib/python2.7/dist-packages/mylocation_monitor/msg/_MyLandmarkDistance.py
+Symlinking /home/rcsa-gs/my_ros_cpp_ws/devel/lib/python2.7/dist-packages/mylocation_monitor/msg/__init__.py
+Linked: (/home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/lib/pkgconfig/mylocation_monitor.pc, /home/rcsa-gs/my_ros_cpp_ws/devel/lib/pkgconfig/mylocation_monitor.pc)
+Linked: (/home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/lib/mylocation_monitor/myposition, /home/rcsa-gs/my_ros_cpp_ws/devel/lib/mylocation_monitor/myposition)

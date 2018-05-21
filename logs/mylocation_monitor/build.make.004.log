@@ -1,0 +1,25 @@
+[35m[1mScanning dependencies of target _mylocation_monitor_generate_messages_check_deps_MyLandmarkDistance[0m
+[  0%] Built target _mylocation_monitor_generate_messages_check_deps_MyLandmarkDistance
+[35m[1mScanning dependencies of target mylocation_monitor_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mylocation_monitor_generate_messages_py[0m
+[35m[1mScanning dependencies of target mylocation_monitor_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target mylocation_monitor_generate_messages_nodejs[0m
+[ 11%] [34m[1mGenerating Python from MSG mylocation_monitor/MyLandmarkDistance[0m
+[ 22%] [34m[1mGenerating Lisp code from mylocation_monitor/MyLandmarkDistance.msg[0m
+[ 33%] [34m[1mGenerating Javascript code from mylocation_monitor/MyLandmarkDistance.msg[0m
+[ 44%] [34m[1mGenerating C++ code from mylocation_monitor/MyLandmarkDistance.msg[0m
+[ 44%] Built target mylocation_monitor_generate_messages_lisp
+[ 44%] Built target mylocation_monitor_generate_messages_nodejs
+[35m[1mScanning dependencies of target mylocation_monitor_generate_messages_eus[0m
+[ 55%] [34m[1mGenerating Python msg __init__.py for mylocation_monitor[0m
+[ 66%] [34m[1mGenerating EusLisp manifest code for mylocation_monitor[0m
+[ 77%] [34m[1mGenerating EusLisp code from mylocation_monitor/MyLandmarkDistance.msg[0m
+[ 77%] Built target mylocation_monitor_generate_messages_py
+[ 77%] Built target mylocation_monitor_generate_messages_cpp
+[35m[1mScanning dependencies of target myposition[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/myposition.dir/src/myposition.cpp.o[0m
+[ 88%] Built target mylocation_monitor_generate_messages_eus
+[35m[1mScanning dependencies of target mylocation_monitor_generate_messages[0m
+[ 88%] Built target mylocation_monitor_generate_messages
+[100%] [32m[1mLinking CXX executable /home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/lib/mylocation_monitor/myposition[0m
+[100%] Built target myposition

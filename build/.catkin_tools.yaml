@@ -1,0 +1,6 @@
+devel_space: /home/rcsa-gs/my_ros_cpp_ws/devel
+install: false
+install_space: /home/rcsa-gs/my_ros_cpp_ws/install
+profile: default
+source_space: /home/rcsa-gs/my_ros_cpp_ws/src
+workspace: /home/rcsa-gs/my_ros_cpp_ws

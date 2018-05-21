@@ -1,0 +1,8 @@
+prefix=/home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor
+
+Name: mylocation_monitor
+Description: Description of mylocation_monitor
+Version: 0.0.0
+Cflags: -I/home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/include
+Libs: -L/home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/lib 
+Requires: nav_msgs roscpp rospy std_msgs message_runtime

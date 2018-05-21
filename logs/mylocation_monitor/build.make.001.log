@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target myposition[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/myposition.dir/src/myposition.cpp.o[0m
+[01m[K/home/rcsa-gs/my_ros_cpp_ws/src/mylocation_monitor/src/myposition.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/rcsa-gs/my_ros_cpp_ws/src/mylocation_monitor/src/myposition.cpp:13:28:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass ros::NodeHandle[m[K’ has no member named ‘[01m[KSubscribe[m[K’
+   ros::Subscriber sub = nh.Subscribe("odom",10,OdomCallback);
+[01;32m[K                            ^[m[K
+CMakeFiles/myposition.dir/build.make:62: recipe for target 'CMakeFiles/myposition.dir/src/myposition.cpp.o' failed
+make[2]: *** [CMakeFiles/myposition.dir/src/myposition.cpp.o] Error 1
+make[1]: *** [CMakeFiles/myposition.dir/all] Error 2
+CMakeFiles/Makefile2:771: recipe for target 'CMakeFiles/myposition.dir/all' failed
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

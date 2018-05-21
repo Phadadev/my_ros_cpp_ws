@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target myposition[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/myposition.dir/src/myposition.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/rcsa-gs/my_ros_cpp_ws/devel/.private/mylocation_monitor/lib/mylocation_monitor/myposition[0m
+[100%] Built target myposition
